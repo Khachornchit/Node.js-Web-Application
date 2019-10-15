@@ -1,5 +1,7 @@
 # Node.js Web Application
-A sample node.js web application with Express.js, EJS Template, and Bootstrap 4.3.
+Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser. It allow to use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.
+
+This is a sample Node.js web application using Express.js, EJS Template, and Bootstrap 4.3.
 
 ## Technology Stack
 * Node.js, Express.js, ejs template
