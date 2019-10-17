@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Khachornchit/Node.js-Web-Application.svg?branch=master)](https://travis-ci.org/Khachornchit/Node.js-Web-Application)
+
 # Node.js Web Application
 Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a browser. It allow to use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser.
 
