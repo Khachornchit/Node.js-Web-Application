@@ -6,6 +6,7 @@ This is a sample Node.js web application using Express.js, EJS Template, and Boo
 ## Technology Stack
 * Node.js, Express.js, ejs template
 * Bootstrap 4.3
+* Travis CI | Open Source CICD integration
 
 ## Setup Guide
 * git clone https://github.com/Khachornchit/nodejs-web-application.git
