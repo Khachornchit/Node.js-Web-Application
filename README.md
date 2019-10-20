@@ -6,14 +6,26 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that e
 This is a sample Node.js web application using Express.js, EJS Template, and Bootstrap 4.3.
 
 ## Technology Stack
-* Node.js, Express.js, ejs template
+* Node.js, Express.js
 * Bootstrap 4.3
-* Travis CI | Open Source CICD integration
+* Travis CI
 
-## Setup Guide
-* git clone https://github.com/Khachornchit/nodejs-web-application.git
-* cd nodejs-web-application
-* yarn install
-* yarn start
-* http://localhost:3000/
-* http://localhost:3000/users
+## Pre-requires
+* Install [Node.js](https://nodejs.org/en/)
+* Install [yarn](https://yarnpkg.com/en/)
+
+## Getting started
+* Clone the repository
+```
+git clone https://github.com/Khachornchit/nodejs-web-application.git
+```
+* Build and run the project
+```
+cd nodejs-web-application
+yarn install
+yarn start
+```
+
+## Browse pages
+* [Home](http://localhost:3000/)
+* [Users](http://localhost:3000/users)
