@@ -4,4 +4,3 @@ jobs:
   include:
     - stage: install
       script: yarn install
-

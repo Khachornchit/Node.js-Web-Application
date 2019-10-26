@@ -16,11 +16,11 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that e
 ## Getting started
 * Clone the repository
 ```
-git clone https://github.com/Khachornchit/nodejs-web-application.git
+git clone git@github.com:khachornchit/Node.js-Web-App.git
 ```
 * Build and run the project
 ```
-cd nodejs-web-application
+cd Node.js-Web-App
 yarn install
 yarn start
 ```
