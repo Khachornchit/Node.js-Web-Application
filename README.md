@@ -8,7 +8,6 @@ This is a sample Node.js web application using Express.js, EJS Template, and Boo
 ## Technology Stack
 * Node.js, Express.js
 * Bootstrap 4.3
-* CICD Integration
 
 ## Pre-requires
 * Install [Node.js](https://nodejs.org/en/)
